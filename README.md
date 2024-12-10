@@ -2,4 +2,4 @@
 
 This repo contains my solutions to the `rustlings` crate exercises.
 
---> @tor
+@tor
